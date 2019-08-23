@@ -19,7 +19,8 @@
 		"Python",
 		"Ruby",
 		"Rust",
-		"Windows / IIS"
+		"Windows / IIS",
+        	"Proxmox" 
 	],
 	"libraries": [
 		"D",
